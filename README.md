@@ -1,4 +1,4 @@
-# 🧪 A/B Testing for Data-Driven Decision Making
+# A/B Testing for Data-Driven Decision Making
 
 ## 📌 Project Overview
 
