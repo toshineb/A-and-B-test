@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents a robust **A/B testing analysis** using Python to determine the impact of changes in a product, marketing, or user interface. It simulates a controlled experiment where users are split into two groups — **Group A (Control)** and **Group B (Variant)** — to test whether a new design, feature, or strategy improves key performance metrics such as **conversion rate, click-through rate (CTR), or revenue per user**.
+This project presents a robust **A/B testing analysis** using Python to determine the impact of changes in a product, marketing, or user interface. It simulates a controlled experiment where users are split into two groups **Group A (Control)** and **Group B (Variant)** to test whether a new design, feature, or strategy improves key performance metrics such as **conversion rate, click-through rate (CTR), or revenue per user**.
 
 > 🔬 Designed for data-backed decisions, this notebook follows the best practices in experimental design, hypothesis testing, and effect size interpretation.
 
